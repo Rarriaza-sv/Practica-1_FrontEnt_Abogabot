@@ -9,12 +9,12 @@ https://amazing-toaster-13d.notion.site/Practica-1-Abogabot-0409740186b6439ba7b4
 
 ## **Yo utilicé las siguientes herramientas:**
 
--la pagina web esta en **notion** , me parecio una excelente herramienta que no conocia y estoy aprendiendo a usarla.
--Para el buyer persona y el público objetivo, utilicé **Miro** , ya la habia utilizado antes pero como herramienta estilo tablero kanban , ahora aprendi que tiene muchas mas herramientas.
--Para los WireFrame, utilicé la herramienta **balsamiq** la cual me parecio muy fácil de usar y el resultado me parecio increible.
+- [la pagina web esta en **notion** , me parecio una excelente herramienta que no conocia y estoy aprendiendo a usarla.]
+- [Para el buyer persona y el público objetivo, utilicé **Miro** , ya la habia utilizado antes pero como herramienta estilo tablero kanban , ahora aprendi que tiene muchas mas herramientas]
+- [Para los WireFrame, utilicé la herramienta **balsamiq** la cual me parecio muy fácil de usar y el resultado me parecio increible]
 
 
-- **Lo que encontraras es lo siguiente**
+- ## **Lo que encontraras es lo siguiente**
   - [Toma de requerimientos]
   - [Crea tu buyer persona]
   - [Publico objetivo]
